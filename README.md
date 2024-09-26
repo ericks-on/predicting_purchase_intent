@@ -5,6 +5,12 @@ The business needs to understand and predict customer purchase intent to better 
 * Accuracy - atleast 85%
 * Precision, recall and f1_score - atleast 85%
 
+<img src="/pic.jpg" alt="pic" style="width: 500px; height: 500px;" />
+
+
+Photo by <a href="https://unsplash.com/@joshua_hoehne?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Joshua Hoehne</a> on <a href="https://unsplash.com/photos/gray-shopping-cart-on-gray-brick-wall-GoGYvir1teM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+
 # Data Understanding
 The data is from [Kaggle](https://www.kaggle.com/competitions/22122shop/data)
 
@@ -31,6 +37,9 @@ Features description (from the dataset authors):
 11. `Visitor type (VstTp)`: Type of visitor
 12. `Weekend (Wknd)`: whether the page view event took place on weekend
 13. `Month of the year (Mo)`: the month of the page view event
+
+# Final Model :
+    Random Forest classifier
 
 # Results
 From the results, our model performs really well.
